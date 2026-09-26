@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[QuotaBubble](https://github.com/izzet/quotabubble)** - Local-first desktop floating widget that tracks usage quotas and reset countdowns across Claude Code, Cursor, Codex, Copilot, and other AI coding tools with zero telemetry.
 
 ## AI Frameworks and SDKs
 
